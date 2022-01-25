@@ -9,8 +9,8 @@ Replace the Project Title
 ### The Python script explores a database for bike sharing in 3 cities: Chicago, New York City and Whashington
 Describe what your project is about and what it does
 
-### Files used
+### chicago.csv, new_york_city.csv and washington.csv
 Include the files used
 
-### Credits
+### udacity.com
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
