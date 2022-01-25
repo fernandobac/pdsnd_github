@@ -3,10 +3,10 @@
 ### 25/01/2022 - Tuesday
 Include the date you created this project and README file.
 
-### Project Title
+### Projeto 2
 Replace the Project Title
 
-### Description
+### The Python script explores a database for bike sharing in 3 cities: Chicago, New York City and Whashington
 Describe what your project is about and what it does
 
 ### Files used
