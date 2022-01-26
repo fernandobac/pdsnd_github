@@ -1,3 +1,5 @@
+#This script gets input from user to show data about bike sharing in the USA
+
 import time
 import pandas as pd
 import numpy as np
