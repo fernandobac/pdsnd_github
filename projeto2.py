@@ -1,7 +1,7 @@
-#TO DO: Import Python libraries
 import time
 import pandas as pd
 import numpy as np
+#Libraries used in the project
 
 #TO DO: Create cities dictionary
 CITY_DATA = { 'chicago': 'chicago.csv',
