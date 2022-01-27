@@ -1,16 +1,21 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+#**Projeto 2**
+####Created on 25/01/2022 by Fernando Bacelar
 
-### 25/01/2022 - Tuesday
-Include the date you created this project and README file.
+This project is a Python script which shows statistical data for bike sharing usage in 3 cities:
 
-### Projeto 2
-Replace the Project Title
+- Chicago;
+- New York City;
+- Whashington.
 
-### The Python script explores a database for bike sharing in 3 cities: Chicago, New York City and Whashington
-Describe what your project is about and what it does
 
-### chicago.csv, new_york_city.csv and washington.csv
-Include the files used
+## List of files used in the project
 
-### udacity.com
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+- chicago.csv
+- new_york_city.csv
+- washington.csv
+
+
+##References
+
+1. [PDSND GitHub](https://github.com/udacity/pdsnd_github)
+2. [Lighthouse GitHub](https://github.com/GoogleChrome/lighthouse)
