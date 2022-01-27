@@ -1,6 +1,8 @@
 # Projeto 2
+##### *Created on 25/01/2022 by Fernando Bacelar*
 
-#### Created on 25/01/2022 by Fernando Bacelar
+
+## Project Description
 
 This project is a Python script which shows statistical data for bike sharing usage in 3 cities:
 
