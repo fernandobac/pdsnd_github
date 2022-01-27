@@ -1,5 +1,6 @@
-#**Projeto 2**
-####Created on 25/01/2022 by Fernando Bacelar
+# Projeto 2
+
+#### Created on 25/01/2022 by Fernando Bacelar
 
 This project is a Python script which shows statistical data for bike sharing usage in 3 cities:
 
@@ -15,7 +16,7 @@ This project is a Python script which shows statistical data for bike sharing us
 - washington.csv
 
 
-##References
+## References
 
 1. [PDSND GitHub](https://github.com/udacity/pdsnd_github)
 2. [Lighthouse GitHub](https://github.com/GoogleChrome/lighthouse)
